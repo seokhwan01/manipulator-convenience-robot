@@ -1,0 +1,8 @@
+#OrderService.srv
+# 요청(Request)
+string[] items              # 예: ["김밥", "라면"]
+int32[] quantities          # 예: [2, 1]
+
+---
+# 응답(Response)
+bool success       # T/F

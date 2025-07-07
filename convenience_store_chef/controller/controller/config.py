@@ -1,0 +1,16 @@
+# for single robot
+ROBOT_ID = "dsr01"
+ROBOT_MODEL = "m0609"
+
+VELOCITY, ACC = 100, 100
+
+DEGREE_VELOCITY = 400
+DEGREE_ACC = 400 # IO Constants
+
+GIMBAB_TIME = 15
+RAMEN_TIME = 30
+
+OFF = 0
+ON = 1
+
+READY_POS = [0, 0, 90, 0, 90, 0]
