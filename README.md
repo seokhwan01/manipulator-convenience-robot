@@ -25,7 +25,7 @@
 
 ## 🛠 개발 환경
 
-- **OS & Middleware**: Ubuntu 20.04, ROS 2 Humble  
+- **OS & Middleware**: Ubuntu 22.04, ROS 2 Humble  
 - **Robot**: Doosan m0609  
 - **API**: Doosan Robot Controller SDK
 - **etc**: Python 3.8, RViz2  
